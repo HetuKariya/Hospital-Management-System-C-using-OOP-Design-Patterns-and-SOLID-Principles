@@ -269,7 +269,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [hetukariya007@gmail.com](mailto:hetukariya007@gmail.com)
 
 ## 🙏 Acknowledgments
 
